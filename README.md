@@ -45,6 +45,12 @@
 
 <div align="center">
 
+<div align="center">
+
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/nEKcZ3Y5u2)
+
+</div>
+
 `> connection established_`
 
 </div>
