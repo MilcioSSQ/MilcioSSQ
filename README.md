@@ -266,14 +266,9 @@ const developer = {
   <a href="https://twitch.tv/milciossq" target="_blank">
     <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch"/>
   </a>
-  <a href="https://linkedin.com/in/your-profile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/your-handle" target="_blank">
+  <a href="https://twitter.com/milciossq" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-
-  <p><i>💡 Tip: Update the LinkedIn and Twitter links with your actual profiles!</i></p>
 
 </div>
 
