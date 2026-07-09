@@ -212,26 +212,6 @@ const developer = {
 
   <br/>
 
-  <h3>🏆 LeetCode Achievements & Badges</h3>
-
-  <p align="center">
-    <a href="https://leetcode.com/milciossq/" target="_blank">
-      <img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" alt="LeetCode February 2024" height="150" width="150" />
-    </a>
-    <a href="https://leetcode.com/milciossq/" target="_blank">
-      <img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" alt="LeetCode March 2024" height="150" width="150" />
-    </a>
-    <a href="https://leetcode.com/milciossq/" target="_blank">
-      <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="LeetCode 200 Problems" height="150" width="150" />
-    </a>
-    <a href="https://leetcode.com/milciossq/" target="_blank">
-      <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="LeetCode 100 Problems" height="150" width="150" />
-    </a>
-  </p>
-
-  <br/>
-  <br/>
-
   <h3>📊 LeetCode Statistics</h3>
 
   <img align="center" src="https://leetcard.jacoblin.cool/milciossq?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode Stats Card" />
@@ -247,16 +227,6 @@ const developer = {
   <a href="https://www.codewars.com/users/milciossq" target="_blank">
     <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white" alt="Codewars Profile" />
   </a>
-
-  <br/>
-  <br/>
-
-  <h3>💪 Core Competencies</h3>
-
-  <img src="https://img.shields.io/badge/Dynamic%20Programming-Expert-blue?style=flat-square" alt="Dynamic Programming" />
-  <img src="https://img.shields.io/badge/Data%20Structures-Proficient-green?style=flat-square" alt="Data Structures" />
-  <img src="https://img.shields.io/badge/Algorithms-Enthusiast-orange?style=flat-square" alt="Algorithms" />
-  <img src="https://img.shields.io/badge/Problem%20Solving-Active-brightgreen?style=flat-square" alt="Problem Solving" />
 
 </div>
 
@@ -292,6 +262,9 @@ const developer = {
   </a>
   <a href="https://ko-fi.com/milciossq" target="_blank">
     <img src="https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi"/>
+  </a>
+  <a href="https://twitch.tv/milciossq" target="_blank">
+    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch"/>
   </a>
   <a href="https://linkedin.com/in/your-profile" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
