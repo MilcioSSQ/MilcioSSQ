@@ -155,6 +155,27 @@
 
 <img src="https://leetcard.jacoblin.cool/MilcioSSQ?theme=dark&font=Fira%20Code&ext=heatmap" />
 
+<br/>
+
+<img src="https://img.shields.io/badge/Dynamic%20Programming-Expert-56E696?style=flat-square" />
+<img src="https://img.shields.io/badge/Data%20Structures-Proficient-56E696?style=flat-square" />
+<img src="https://img.shields.io/badge/Algorithms-Enthusiast-56E696?style=flat-square" />
+<img src="https://img.shields.io/badge/Problem%20Solving-Active-56E696?style=flat-square" />
+
+</div>
+
+<!-- Skill-level badges above are self-assessed, not verified scores. -->
+
+---
+
+### `$ cat blog.rss`
+
+<div align="center">
+
+I occasionally write about what I'm building and what I learn along the way.
+
+<sub>No posts published yet - once I have a blog, this section auto-lists recent posts via an RSS feed.</sub>
+
 </div>
 
 ---
@@ -179,9 +200,6 @@
 <img src="https://img.shields.io/badge/Discord-Geschenke--Star-ED4245?style=flat-square&logo=discord&logoColor=white" alt="Discord Geschenke-Star" />
 
 </div>
-
-
-
 
 ---
 
