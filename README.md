@@ -19,7 +19,7 @@
 
 ## 👨‍💻 About Me
 
-Hey! Ich bin **MilcioSSQ** – Full-Stack-Entwickler & Content Creator aus Deutschland 🇩🇪. Ich baue Discord-Bots, Websites und alles rund um die **Nova Network**-Welt – und nebenbei streame ich auf Twitch & YouTube.
+Hello! I'm **MilcioSSQ**, a Full Stack Developer & Content Creator from **Germany 🇩🇪** with a passion for Discord bots, modern web apps, and building everything around the Nova Network.
 
 ```javascript
 const developer = {
@@ -27,18 +27,18 @@ const developer = {
   role: "Full Stack Developer & Content Creator",
   location: "Germany 🇩🇪",
   interests: ["Discord Bots", "Web Development", "Homelab", "Gaming"],
-  currentFocus: "Nova Network – Bots, Websites & mehr",
+  currentFocus: "Nova Network – bots, websites & more",
   philosophy: "Clean code, clean setup.",
-  funFact: "Wenn ich nicht code, streame ich 🎮"
+  funFact: "When I'm not coding, I'm streaming 🎮"
 };
 ```
 
-**Was ich mache:**
-- 🤖 Discord-Bots & fertige Server (Nova Network)
-- 🌐 Full-Stack Web-Apps mit modernen Frameworks
-- 🎮 Twitch- & YouTube-Content als MilcioSSQ
-- 🧩 Homelab & 3D-Printing als Hobby
-- 📚 Immer am Lernen und Ausprobieren
+**What I do:**
+- 🤖 Building Discord bots & ready-made servers (Nova Network)
+- 🌐 Full-stack web apps with modern frameworks
+- 🎮 Creating content on Twitch & YouTube as MilcioSSQ
+- 🧩 Homelab & 3D printing on the side
+- 📚 Always learning and exploring new tech
 
 ---
 
@@ -47,16 +47,16 @@ const developer = {
 <div align="center">
 
 ### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Scripting & Formats
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
@@ -106,7 +106,7 @@ const developer = {
 
   <img src="https://raw.githubusercontent.com/MilcioSSQ/MilcioSSQ/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Animation" />
 
-  <p><i>💡 Diese Animation wird täglich per GitHub Actions erzeugt (Setup siehe Hinweis unten).</i></p>
+  <p><i>💡 This animation is generated daily via a GitHub Actions workflow (see setup note below).</i></p>
 
 </div>
 
@@ -137,16 +137,16 @@ const developer = {
 
 <div align="center">
 
-<p>Meine eigenen Projekte – kommt bald! ⭐</p>
+<p>My own projects — coming soon! ⭐</p>
 
 <!--
-  So pinnst du deine eigenen Repos (Repo-Namen unten anpassen, dann die <!-- --> Klammern entfernen):
+  To pin your own repos, edit the repo names below and remove the <!-- --> comment markers:
 
-  <a href="https://github.com/MilcioSSQ/DEIN-REPO">
-    <img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=MilcioSSQ&repo=DEIN-REPO&theme=radical&hide_border=false&border_radius=10" />
+  <a href="https://github.com/MilcioSSQ/YOUR-REPO">
+    <img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=MilcioSSQ&repo=YOUR-REPO&theme=radical&hide_border=false&border_radius=10" />
   </a>
-  <a href="https://github.com/MilcioSSQ/DEIN-ZWEITES-REPO">
-    <img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=MilcioSSQ&repo=DEIN-ZWEITES-REPO&theme=radical&hide_border=false&border_radius=10" />
+  <a href="https://github.com/MilcioSSQ/YOUR-SECOND-REPO">
+    <img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=MilcioSSQ&repo=YOUR-SECOND-REPO&theme=radical&hide_border=false&border_radius=10" />
   </a>
 -->
 
@@ -168,13 +168,13 @@ const developer = {
 
 <div align="center">
 
-  <p>Komm auf meinen Discord-Server oder unterstütze mich – ich freu mich über jeden von euch! 💜</p>
+  <p>Join my Discord server or support my work — I appreciate every single one of you! 💜</p>
 
   <a href="https://discord.gg/nEKcZ3Y5u2" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-Server%20beitreten-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Server" />
+    <img src="https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Server" />
   </a>
   <a href="https://ko-fi.com/milciossq" target="_blank">
-    <img src="https://img.shields.io/badge/Ko--fi-Spenden-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi" />
+    <img src="https://img.shields.io/badge/Ko--fi-Donate-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi" />
   </a>
 
 </div>
@@ -185,12 +185,13 @@ const developer = {
 
 <div align="center">
 
-  <p><i>(Platzhalter – sag mir welche du genau hast, dann setze ich sie exakt.)</i></p>
-
-  <img src="https://img.shields.io/badge/Discord-Active%20Developer-3BA55D?style=flat-square&logo=discord&logoColor=white" alt="Active Developer" />
-  <img src="https://img.shields.io/badge/Discord-Nitro-FF73FA?style=flat-square&logo=discord&logoColor=white" alt="Nitro" />
-  <img src="https://img.shields.io/badge/Discord-Server%20Booster-9C84EF?style=flat-square&logo=discord&logoColor=white" alt="Server Booster" />
-  <img src="https://img.shields.io/badge/Discord-HypeSquad-5865F2?style=flat-square&logo=discord&logoColor=white" alt="HypeSquad" />
+  <img src="https://img.shields.io/badge/Nitro-FF73FA?style=flat-square&logo=discord&logoColor=white" alt="Nitro" />
+  <img src="https://img.shields.io/badge/HypeSquad%20Bravery-9C84EF?style=flat-square&logo=discord&logoColor=white" alt="HypeSquad Bravery" />
+  <img src="https://img.shields.io/badge/Server%20Booster-F47FFF?style=flat-square&logo=discord&logoColor=white" alt="Server Booster" />
+  <img src="https://img.shields.io/badge/Originally%20Known%20As-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Originally Known As" />
+  <img src="https://img.shields.io/badge/Completed%20a%20Quest-3BA55D?style=flat-square&logo=discord&logoColor=white" alt="Completed a Quest" />
+  <img src="https://img.shields.io/badge/Orbs-FFB13B?style=flat-square&logo=discord&logoColor=white" alt="Orbs" />
+  <img src="https://img.shields.io/badge/Gifting-EB459E?style=flat-square&logo=discord&logoColor=white" alt="Gifting" />
 
 </div>
 
