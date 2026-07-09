@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:39FF14,100:C724B1&height=200&section=header&text=Nova&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=MilcioSSQ%20%C2%B7%20he%2Fhim&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C724B1,50:0D1117,100:39FF14&height=200&section=header&text=MilcioSSQ&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Nova%20%C2%B7%20he%2Fhim&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=root%40nova%3A~%23+whoami;Entwickler+%7C+T%C3%BCftler+%7C+sicherheitsinteressiert;Baue+eigene+Projekte+zum+Lernen+und+aus+Spa%C3%9F" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=39FF14&center=true&vCenter=true&width=700&lines=root%40milciossq%3A~%23+whoami;Developer+%7C+Tinkerer+%7C+security-minded;Building+my+own+projects+to+learn+and+have+fun" alt="Typing SVG" />
 
 </div>
 
@@ -14,13 +14,18 @@
 <img src="https://skillicons.dev/icons?i=py,js,html,css,ts,nodejs,cpp,cs,lua&theme=dark" />
 </div>
 
+<div align="center">
+<img src="https://img.shields.io/badge/JSON-0D1117?style=for-the-badge&logo=json&logoColor=39FF14" />
+<img src="https://img.shields.io/badge/Batch-0D1117?style=for-the-badge&logo=windowsterminal&logoColor=C724B1" />
+</div>
+
 ---
 
 ### `$ ./contribution_snake.sh`
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/MilcioSSQ/MilcioSSQ/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
-<img src="https://raw.githubusercontent.com/MilcioSSQ/MilcioSSQ/output/github-contribution-grid-snake.svg#gh-light-mode-only" />
+<img width="100%" src="https://raw.githubusercontent.com/MilcioSSQ/MilcioSSQ/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
+<img width="100%" src="https://raw.githubusercontent.com/MilcioSSQ/MilcioSSQ/output/github-contribution-grid-snake.svg#gh-light-mode-only" />
 </div>
 
 ---
