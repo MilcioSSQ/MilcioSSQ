@@ -7,6 +7,10 @@
 <img src="https://komarev.com/ghpvc/?username=milciossq&label=Profile%20Views&color=56E696&style=flat" alt="Profile views" />
 <img src="https://img.shields.io/github/followers/MilcioSSQ?label=Followers&style=flat&color=56E696" alt="GitHub followers" />
 
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MilcioSSQ&theme=github_dark" />
+
 </div>
 
 ---
@@ -81,6 +85,20 @@
 
 ---
 
+### `$ ./achievements --list`
+
+<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MilcioSSQ&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MilcioSSQ&theme=github_dark" />
+</div>
+
+<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MilcioSSQ&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MilcioSSQ&theme=github_dark&utcOffset=1" />
+</div>
+
+---
+
 ### `$ ./coding_practice.sh`
 
 <div align="center">
@@ -121,6 +139,10 @@
 <div align="center">
 
 `> connection established_`
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a2f22,100:0D1117&height=100&section=footer"/>
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1500&color=56E696&center=true&vCenter=true&width=500&lines=Thanks+for+stopping+by;Have+a+great+day" alt="Farewell Typing SVG" />
 
 <br/>
 
