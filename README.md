@@ -176,8 +176,10 @@
 <img src="https://img.shields.io/badge/Discord-Quest%20abgeschlossen-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord Quest Completed" />
 <img src="https://img.shields.io/badge/Orbs-Last%20Meadow%20%C2%B7%20Level%20100-6C5CE7?style=flat-square&logo=discord&logoColor=white" alt="Discord Orbs Last Meadow Level 100" />
 <img src="https://img.shields.io/badge/Orbs%20Rang-Lehrling-6C5CE7?style=flat-square&logo=discord&logoColor=white" alt="Discord Orbs Rang Lehrling" />
+<img src="https://img.shields.io/badge/Discord-Geschenke--Star-ED4245?style=flat-square&logo=discord&logoColor=white" alt="Discord Geschenke-Star" />
 
 </div>
+
 
 
 
