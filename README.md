@@ -19,7 +19,7 @@
 
 ## 👨‍💻 About Me
 
-Hello! I'm **MilcioSSQ**, a Full Stack Developer & Content Creator from **Germany 🇩🇪** with a passion for Discord bots, modern web apps, and building everything around the Nova Network.
+Hello! I'm **MilcioSSQ**, a passionate Full Stack Developer & Content Creator from **Germany 🇩🇪** with a strong foundation in modern web technologies and a keen interest in building Discord bots, scalable web apps, and everything around the Nova Network.
 
 ```javascript
 const developer = {
@@ -34,11 +34,11 @@ const developer = {
 ```
 
 **What I do:**
-- 🤖 Building Discord bots & ready-made servers (Nova Network)
-- 🌐 Full-stack web apps with modern frameworks
-- 🎮 Creating content on Twitch & YouTube as MilcioSSQ
+- 🤖 Build Discord bots & ready-made servers (Nova Network)
+- 🚀 Develop full-stack web applications using modern frameworks
+- 🎮 Create content on Twitch & YouTube as MilcioSSQ
 - 🧩 Homelab & 3D printing on the side
-- 📚 Always learning and exploring new tech
+- 📚 Continuously learning and exploring new technologies
 
 ---
 
@@ -104,9 +104,11 @@ const developer = {
 
 <div align="center">
 
+  <p>Watch my contributions come to life! This animation is automatically generated from my GitHub contribution graph.</p>
+
   <img src="https://raw.githubusercontent.com/MilcioSSQ/MilcioSSQ/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Animation" />
 
-  <p><i>💡 This animation is generated daily via a GitHub Actions workflow (see setup note below).</i></p>
+  <p><i>💡 This animation updates daily via a GitHub Actions workflow.</i></p>
 
 </div>
 
@@ -115,6 +117,8 @@ const developer = {
 ## 📊 GitHub Statistics
 
 <div align="center">
+
+  <p>Here's a snapshot of my GitHub activity, contributions, and achievements.</p>
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MilcioSSQ&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MilcioSSQ&layout=compact&langs_count=8&theme=radical" alt="Top Languages"/>
@@ -137,10 +141,10 @@ const developer = {
 
 <div align="center">
 
-<p>My own projects — coming soon! ⭐</p>
+<p>Here are some of my notable projects. Each one represents a learning journey and a solution to real-world problems.</p>
 
 <!--
-  To pin your own repos, edit the repo names below and remove the <!-- --> comment markers:
+  Add your own repos here: replace the repo names, then remove the surrounding <!-- --> markers.
 
   <a href="https://github.com/MilcioSSQ/YOUR-REPO">
     <img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=MilcioSSQ&repo=YOUR-REPO&theme=radical&hide_border=false&border_radius=10" />
@@ -149,6 +153,8 @@ const developer = {
     <img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=MilcioSSQ&repo=YOUR-SECOND-REPO&theme=radical&hide_border=false&border_radius=10" />
   </a>
 -->
+
+<p><i>⭐ My own projects — coming soon!</i></p>
 
 </div>
 
@@ -164,26 +170,23 @@ const developer = {
 
 ---
 
-## 🎮 Community & Support
+## 🎮 Discord
 
 <div align="center">
 
-  <p>Join my Discord server or support my work — I appreciate every single one of you! 💜</p>
+  <p>Feel free to connect with me on Discord for collaboration, discussions, or just to say hello!</p>
 
+  <a href="https://discord.com/users/1122944890314166423" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-MilcioSSQ-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Profile" />
+  </a>
   <a href="https://discord.gg/nEKcZ3Y5u2" target="_blank">
     <img src="https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Server" />
   </a>
-  <a href="https://ko-fi.com/milciossq" target="_blank">
-    <img src="https://img.shields.io/badge/Ko--fi-Donate-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi" />
-  </a>
 
-</div>
+  <br/>
+  <br/>
 
----
-
-## 🎖️ Discord Badges
-
-<div align="center">
+  <h4>Discord Badges</h4>
 
   <img src="https://img.shields.io/badge/Nitro-FF73FA?style=flat-square&logo=discord&logoColor=white" alt="Nitro" />
   <img src="https://img.shields.io/badge/HypeSquad%20Bravery-9C84EF?style=flat-square&logo=discord&logoColor=white" alt="HypeSquad Bravery" />
@@ -197,16 +200,169 @@ const developer = {
 
 ---
 
+## 💡 LeetCode & Coding Practice
+
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+
+  <p>Passionate about solving algorithmic challenges and improving problem-solving skills through competitive programming and coding practice. Continuously learning and growing as a developer.</p>
+
+  <br/>
+
+  <h3>🏆 LeetCode Achievements & Badges</h3>
+
+  <p align="center">
+    <a href="https://leetcode.com/milciossq/" target="_blank">
+      <img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" alt="LeetCode February 2024" height="150" width="150" />
+    </a>
+    <a href="https://leetcode.com/milciossq/" target="_blank">
+      <img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" alt="LeetCode March 2024" height="150" width="150" />
+    </a>
+    <a href="https://leetcode.com/milciossq/" target="_blank">
+      <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="LeetCode 200 Problems" height="150" width="150" />
+    </a>
+    <a href="https://leetcode.com/milciossq/" target="_blank">
+      <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="LeetCode 100 Problems" height="150" width="150" />
+    </a>
+  </p>
+
+  <br/>
+  <br/>
+
+  <h3>📊 LeetCode Statistics</h3>
+
+  <img align="center" src="https://leetcard.jacoblin.cool/milciossq?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode Stats Card" />
+
+  <br/>
+  <br/>
+
+  <h3>🔗 Coding Practice Platforms</h3>
+
+  <a href="https://leetcode.com/u/milciossq/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile" />
+  </a>
+  <a href="https://www.codewars.com/users/milciossq" target="_blank">
+    <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white" alt="Codewars Profile" />
+  </a>
+
+  <br/>
+  <br/>
+
+  <h3>💪 Core Competencies</h3>
+
+  <img src="https://img.shields.io/badge/Dynamic%20Programming-Expert-blue?style=flat-square" alt="Dynamic Programming" />
+  <img src="https://img.shields.io/badge/Data%20Structures-Proficient-green?style=flat-square" alt="Data Structures" />
+  <img src="https://img.shields.io/badge/Algorithms-Enthusiast-orange?style=flat-square" alt="Algorithms" />
+  <img src="https://img.shields.io/badge/Problem%20Solving-Active-brightgreen?style=flat-square" alt="Problem Solving" />
+
 </div>
+
+---
+
+## 📝 Blog & Writing
+
+<div align="center">
+
+  <p>I occasionally write about web development, programming tips, and my learning journey.</p>
+
+  <!-- BLOG-POST-LIST:START -->
+  <!-- To enable blog posts, add your blog RSS feed URL -->
+  <!-- BLOG-POST-LIST:END -->
+
+  <p><i>💡 Tip: Add your blog RSS feed to automatically display recent posts here!</i></p>
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+  <p>I'm always open to connecting with fellow developers, collaborating on projects, or discussing technology. Let's build something amazing together!</p>
+
+  <a href="https://github.com/milciossq" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://discord.com/users/1122944890314166423" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+  <a href="https://ko-fi.com/milciossq" target="_blank">
+    <img src="https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi"/>
+  </a>
+  <a href="https://linkedin.com/in/your-profile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/your-handle" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+
+  <p><i>💡 Tip: Update the LinkedIn and Twitter links with your actual profiles!</i></p>
+
+</div>
+
+---
+
+## 🏆 Detailed GitHub Profile
+
+<div align="center">
+
+  <p>Comprehensive breakdown of my GitHub profile, repositories, and coding activity.</p>
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MilcioSSQ&theme=github_dark" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MilcioSSQ&theme=github_dark" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MilcioSSQ&theme=github_dark" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MilcioSSQ&theme=github_dark" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MilcioSSQ&theme=github_dark&utcOffset=1" alt="Productive Time" />
+
+</div>
+
+---
+
+## 💻 Programming Languages
+
+<div align="center">
+
+  <p>Languages I use most frequently in my projects and contributions.</p>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MilcioSSQ&langs_count=10&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Most Used Languages" />
+
+</div>
+
+---
+
+## 🎨 Random Dev Quote
+
+<div align="center">
+
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+
+</div>
+
+---
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=65&section=footer"/>
 </div>
 
+---
+
 <div align="center">
 
   ![Typing SVG](https://readme-typing-svg.vercel.app/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+%F0%9F%98%8A;Have+a+great+day!;)
+
+</div>
+
+---
+
+<div align="center">
+
+  <img src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg" alt="Made with Markdown" />
+  <img src="https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg" alt="Contributions Welcome" />
+  <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License" />
+
+  <br/>
+  <br/>
+
+  <p>⭐ If you find this profile interesting, feel free to star some of my repositories!</p>
 
 </div>
