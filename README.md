@@ -167,7 +167,12 @@
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/milciossq)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MilcioSSQ)
 
+<br/>
+
+<img src="https://img.shields.io/badge/HypeSquad-Bravery-F4694D?style=flat-square&logo=discord&logoColor=white" alt="Discord HypeSquad Bravery" />
+
 </div>
+
 
 ---
 
