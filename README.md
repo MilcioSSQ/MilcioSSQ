@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-widgetbox.vercel.app/api/profile?username=MilcioSSQ&data=followers,repositories,stars,commits&theme=viridescent" alt="GitHub WidgetBox - followers, repos, stars, commits" />
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=MilcioSSQ&data=followers,repositories,stars,commits&theme=viridescent" alt="GitHub WidgetBox" />
 </div>
 
 <div align="center">
@@ -36,6 +36,7 @@ const developer = {
 **What I do:**
 - 🤖 Build Discord bots & ready-made servers (Nova Network)
 - 🚀 Develop full-stack web applications using modern frameworks
+- 🛠️ Build open-source Windows tools (PowerShell)
 - 🎮 Create content on Twitch & YouTube as MilcioSSQ
 - 🧩 Homelab & 3D printing on the side
 - 📚 Continuously learning and exploring new technologies
@@ -59,6 +60,7 @@ const developer = {
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 
 ### Scripting & Formats
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 ![Batch](https://img.shields.io/badge/Batch-4D4D4D?style=for-the-badge&logo=windowsterminal&logoColor=white)
 ![VBScript](https://img.shields.io/badge/VBScript-867DB1?style=for-the-badge)
@@ -145,20 +147,17 @@ const developer = {
 
 <div align="center">
 
-<p>Here are some of my notable projects. Each one represents a learning journey and a solution to real-world problems.</p>
+<p>Here are some of my notable projects.</p>
 
-<!--
-  Add your own repos here: replace the repo names, then remove the surrounding <!-- --> markers.
-
-  <a href="https://github.com/MilcioSSQ/YOUR-REPO">
-    <img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=MilcioSSQ&repo=YOUR-REPO&theme=radical&hide_border=false&border_radius=10" />
-  </a>
-  <a href="https://github.com/MilcioSSQ/YOUR-SECOND-REPO">
-    <img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=MilcioSSQ&repo=YOUR-SECOND-REPO&theme=radical&hide_border=false&border_radius=10" />
-  </a>
--->
-
-<p><i>⭐ My own projects — coming soon!</i></p>
+<a href="https://github.com/MilcioSSQ/fps-boost">
+  <img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=MilcioSSQ&repo=fps-boost&theme=radical&hide_border=false&border_radius=10" />
+</a>
+<a href="https://github.com/MilcioSSQ/win-tools">
+  <img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=MilcioSSQ&repo=win-tools&theme=radical&hide_border=false&border_radius=10" />
+</a>
+<a href="https://github.com/MilcioSSQ/Winkey">
+  <img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=MilcioSSQ&repo=Winkey&theme=radical&hide_border=false&border_radius=10" />
+</a>
 
 </div>
 
@@ -208,7 +207,7 @@ const developer = {
 
 <div align="center">
 
-  <p>Passionate about solving algorithmic challenges and improving problem-solving skills through competitive programming and coding practice. Continuously learning and growing as a developer.</p>
+  <p>Passionate about solving algorithmic challenges and improving problem-solving skills. Continuously learning and growing as a developer.</p>
 
   <br/>
 
@@ -227,22 +226,6 @@ const developer = {
   <a href="https://www.codewars.com/users/milciossq" target="_blank">
     <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white" alt="Codewars Profile" />
   </a>
-
-</div>
-
----
-
-## 📝 Blog & Writing
-
-<div align="center">
-
-  <p>I occasionally write about web development, programming tips, and my learning journey.</p>
-
-  <!-- BLOG-POST-LIST:START -->
-  <!-- To enable blog posts, add your blog RSS feed URL -->
-  <!-- BLOG-POST-LIST:END -->
-
-  <p><i>💡 Tip: Add your blog RSS feed to automatically display recent posts here!</i></p>
 
 </div>
 
