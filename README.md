@@ -126,14 +126,14 @@ const developer = {
 
   <p>Here's a snapshot of my GitHub activity, contributions, and achievements.</p>
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MilcioSSQ&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MilcioSSQ&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub Stats"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MilcioSSQ&layout=compact&langs_count=8&theme=radical" alt="Top Languages"/>
 
 </div>
 
 <div align="center">
   <p><strong>🔥 Current Streak</strong></p>
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-nine-ruby.vercel.app?user=MilcioSSQ&theme=dark" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=MilcioSSQ&theme=dark&hide_border=false" alt="GitHub Streak" /></a>
 </div>
 
 <div align="center">
@@ -157,6 +157,9 @@ const developer = {
 </a>
 <a href="https://github.com/MilcioSSQ/Winkey">
   <img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=MilcioSSQ&repo=Winkey&theme=radical&hide_border=false&border_radius=10" />
+</a>
+<a href="https://github.com/MilcioSSQ/eq">
+  <img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=MilcioSSQ&repo=eq&theme=radical&hide_border=false&border_radius=10" />
 </a>
 
 </div>
