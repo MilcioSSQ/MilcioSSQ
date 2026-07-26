@@ -126,8 +126,8 @@ const developer = {
 
   <p>Here's a snapshot of my GitHub activity, contributions, and achievements.</p>
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MilcioSSQ&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=86400" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MilcioSSQ&layout=compact&langs_count=8&theme=radical&cache_seconds=86400" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MilcioSSQ&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MilcioSSQ&layout=compact&langs_count=8&theme=radical" alt="Top Languages"/>
 
 </div>
 
@@ -150,16 +150,16 @@ const developer = {
 <p>Here are some of my notable projects.</p>
 
 <a href="https://github.com/MilcioSSQ/fps-boost">
-  <img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=MilcioSSQ&repo=fps-boost&theme=radical&hide_border=false&border_radius=10&cache_seconds=86400" />
+  <img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=MilcioSSQ&repo=fps-boost&theme=radical&hide_border=false&border_radius=10" />
 </a>
 <a href="https://github.com/MilcioSSQ/win-tools">
-  <img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=MilcioSSQ&repo=win-tools&theme=radical&hide_border=false&border_radius=10&cache_seconds=86400" />
+  <img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=MilcioSSQ&repo=win-tools&theme=radical&hide_border=false&border_radius=10" />
 </a>
 <a href="https://github.com/MilcioSSQ/Winkey">
-  <img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=MilcioSSQ&repo=Winkey&theme=radical&hide_border=false&border_radius=10&cache_seconds=86400" />
+  <img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=MilcioSSQ&repo=Winkey&theme=radical&hide_border=false&border_radius=10" />
 </a>
 <a href="https://github.com/MilcioSSQ/eq">
-  <img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=MilcioSSQ&repo=eq&theme=radical&hide_border=false&border_radius=10&cache_seconds=86400" />
+  <img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=MilcioSSQ&repo=eq&theme=radical&hide_border=false&border_radius=10" />
 </a>
 
 </div>
@@ -171,54 +171,6 @@ const developer = {
 <div align="center">
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MilcioSSQ&theme=github-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff" alt="GitHub Contribution Graph" />
-
-</div>
-
----
-
-## 📚 Learning & Practice
-
-<div align="center">
-
-  <p>Besides coding real projects, I'm constantly leveling up through learning platforms.</p>
-
-  <br/>
-
-  ### 🐧 SideMe
-
-  <a href="https://sideme.ai/" target="_blank">
-    <img src="https://img.shields.io/badge/SideMe-00B4D8?style=for-the-badge&logoColor=white" alt="SideMe" />
-  </a>
-
-  <br/><br/>
-
-  ![Rank](https://img.shields.io/badge/Rank-Learner-00B4D8?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgZmlsbD0id2hpdGUiIHZpZXdCb3g9IjAgMCAxNiAxNiI+PHBhdGggZD0iTTggMGw0IDQtNCA0LTQtNHoiLz48L3N2Zz4=)
-  ![XP](https://img.shields.io/badge/Total_XP-4,574-58CC02?style=flat-square)
-  ![Streak](https://img.shields.io/badge/Max_Streak-1_day-FF9600?style=flat-square)
-  ![League](https://img.shields.io/badge/League-Bronze-CD7F32?style=flat-square)
-  ![Course](https://img.shields.io/badge/Course-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-  ![Progress](https://img.shields.io/badge/Chapter_1_Unit_4-Data_Types_(85%25)-00B4D8?style=flat-square)
-
-  <br/><br/>
-
-  ### 🤖 Mimo
-
-  <a href="https://www.mimo.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Mimo-7B61FF?style=for-the-badge&logoColor=white" alt="Mimo" />
-  </a>
-
-  <br/><br/>
-
-  ![XP](https://img.shields.io/badge/Total_XP-720-58CC02?style=flat-square)
-  ![Streak](https://img.shields.io/badge/Max_Streak-3_days-FF9600?style=flat-square)
-  ![League](https://img.shields.io/badge/League-Wood-8B6914?style=flat-square)
-  ![Course](https://img.shields.io/badge/Path-Python_Developer-3776AB?style=flat-square&logo=python&logoColor=white)
-  ![Progress](https://img.shields.io/badge/Chapter_1-Intro_to_Python_(18%25)-7B61FF?style=flat-square)
-  ![Certificate](https://img.shields.io/badge/Certificate-0/9-lightgrey?style=flat-square)
-
-  <br/><br/>
-
-  <p><i>📌 Stats are updated manually – last update: July 2026</i></p>
 
 </div>
 
@@ -254,6 +206,34 @@ const developer = {
 
 ---
 
+## 💡 LeetCode & Coding Practice
+
+<div align="center">
+
+  <p>Passionate about solving algorithmic challenges and improving problem-solving skills. Continuously learning and growing as a developer.</p>
+
+  <br/>
+
+  <h3>📊 LeetCode Statistics</h3>
+
+  <img align="center" src="https://leetcard.jacoblin.cool/milciossq?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode Stats Card" />
+
+  <br/>
+  <br/>
+
+  <h3>🔗 Coding Practice Platforms</h3>
+
+  <a href="https://leetcode.com/u/milciossq/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile" />
+  </a>
+  <a href="https://www.codewars.com/users/milciossq" target="_blank">
+    <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white" alt="Codewars Profile" />
+  </a>
+
+</div>
+
+---
+
 ## 🤝 Connect With Me
 
 <div align="center">
@@ -275,6 +255,34 @@ const developer = {
   <a href="https://twitter.com/milciossq" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
+
+</div>
+
+---
+
+## 🏆 Detailed GitHub Profile
+
+<div align="center">
+
+  <p>Comprehensive breakdown of my GitHub profile, repositories, and coding activity.</p>
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MilcioSSQ&theme=github_dark" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MilcioSSQ&theme=github_dark" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MilcioSSQ&theme=github_dark" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MilcioSSQ&theme=github_dark" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MilcioSSQ&theme=github_dark&utcOffset=1" alt="Productive Time" />
+
+</div>
+
+---
+
+## 💻 Programming Languages
+
+<div align="center">
+
+  <p>Languages I use most frequently in my projects and contributions.</p>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MilcioSSQ&langs_count=10&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Most Used Languages" />
 
 </div>
 
