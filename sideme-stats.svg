@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="200" viewBox="0 0 500 200">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&amp;display=swap');
+      .card { font-family: 'Nunito', sans-serif; }
+      .title { font-size: 16px; font-weight: 700; fill: #00B4D8; }
+      .username { font-size: 12px; fill: #8b949e; }
+      .label { font-size: 12px; fill: #8b949e; }
+      .value { font-size: 14px; font-weight: 700; fill: #e6edf3; }
+      .accent { fill: #00B4D8; }
+      .divider { stroke: #30363d; stroke-width: 1; }
+    </style>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="500" height="200" rx="10" fill="#1a1a2e" stroke="#30363d" stroke-width="1"/>
+  
+  <!-- Header -->
+  <text x="20" y="32" class="card title">🐧 SideMe Stats</text>
+  <text x="20" y="50" class="card username">Learning Python</text>
+  
+  <!-- Divider -->
+  <line x1="20" y1="60" x2="480" y2="60" class="divider"/>
+  
+  <!-- Ring / Progress Circle -->
+  <circle cx="70" cy="120" r="40" fill="none" stroke="#30363d" stroke-width="6"/>
+  <circle cx="70" cy="120" r="40" fill="none" stroke="#00B4D8" stroke-width="6" 
+          stroke-dasharray="215 251" stroke-dashoffset="0" stroke-linecap="round"
+          transform="rotate(-90 70 120)"/>
+  <text x="70" y="116" text-anchor="middle" class="card value" font-size="18">85%</text>
+  <text x="70" y="132" text-anchor="middle" class="card label" font-size="9">Ch1 Unit4</text>
+  
+  <!-- Stats Grid -->
+  <text x="145" y="85" class="card label">Rank</text>
+  <text x="145" y="103" class="card value">Learner</text>
+  
+  <text x="260" y="85" class="card label">Total XP</text>
+  <text x="260" y="103" class="card value" fill="#58CC02">4,574</text>
+  
+  <text x="375" y="85" class="card label">League</text>
+  <text x="375" y="103" class="card value" fill="#CD7F32">Bronze</text>
+  
+  <text x="145" y="135" class="card label">Max Streak</text>
+  <text x="145" y="153" class="card value" fill="#FF9600">🔥 1 day</text>
+  
+  <text x="260" y="135" class="card label">Course</text>
+  <text x="260" y="153" class="card value" fill="#3776AB">Python</text>
+
+  <text x="375" y="135" class="card label">Gems</text>
+  <text x="375" y="153" class="card value" fill="#9B59B6">💎 201</text>
+  
+  <!-- Footer -->
+  <line x1="20" y1="172" x2="480" y2="172" class="divider"/>
+  <text x="250" y="190" text-anchor="middle" class="card label" font-size="10">Data Types · Chapter 1, Unit 4 · sideme.ai</text>
+</svg>
