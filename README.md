@@ -184,49 +184,41 @@ const developer = {
 
   <br/>
 
-  <a href="https://www.mimo.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Mimo-7B61FF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJ3aGl0ZSI+PHRleHQgeD0iNCIgeT0iMTgiIGZvbnQtc2l6ZT0iMTYiIGZvbnQtd2VpZ2h0PSJib2xkIj5NPC90ZXh0Pjwvc3ZnPg==&logoColor=white" alt="Mimo" />
-  </a>
-  <a href="https://www.sideme.com/" target="_blank">
+  ### 🐧 SideMe
+
+  <a href="https://sideme.ai/" target="_blank">
     <img src="https://img.shields.io/badge/SideMe-00B4D8?style=for-the-badge&logoColor=white" alt="SideMe" />
   </a>
 
   <br/><br/>
 
-  <h3>🏆 My Learning Stats</h3>
+  ![Rank](https://img.shields.io/badge/Rank-Learner-00B4D8?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgZmlsbD0id2hpdGUiIHZpZXdCb3g9IjAgMCAxNiAxNiI+PHBhdGggZD0iTTggMGw0IDQtNCA0LTQtNHoiLz48L3N2Zz4=)
+  ![XP](https://img.shields.io/badge/Total_XP-4,574-58CC02?style=flat-square)
+  ![Streak](https://img.shields.io/badge/Max_Streak-1_day-FF9600?style=flat-square)
+  ![League](https://img.shields.io/badge/League-Bronze-CD7F32?style=flat-square)
+  ![Course](https://img.shields.io/badge/Course-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+  ![Progress](https://img.shields.io/badge/Chapter_1_Unit_4-Data_Types_(85%25)-00B4D8?style=flat-square)
 
-  <table>
-    <thead>
-      <tr>
-        <th>Platform</th>
-        <th>Level</th>
-        <th>XP</th>
-        <th>🔥 Streak</th>
-        <th>Top Languages / Courses</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><img src="https://img.shields.io/badge/-Mimo-7B61FF?style=flat-square&logoColor=white" /></td>
-        <td><code>—</code></td>
-        <td><code>— XP</code></td>
-        <td><code>— days</code></td>
-        <td>Python, JavaScript, HTML/CSS</td>
-      </tr>
+  <br/><br/>
 
-      <tr>
-        <td><img src="https://img.shields.io/badge/-SideMe-00B4D8?style=flat-square&logoColor=white" /></td>
-        <td><code>—</code></td>
-        <td><code>— XP</code></td>
-        <td><code>— days</code></td>
-        <td>—</td>
-      </tr>
-    </tbody>
-  </table>
+  ### 🤖 Mimo
 
-  <br/>
+  <a href="https://www.mimo.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Mimo-7B61FF?style=for-the-badge&logoColor=white" alt="Mimo" />
+  </a>
 
-  <p><i>📌 Stats are updated manually – last update: <!-- UPDATE_DATE -->July 2026</i></p>
+  <br/><br/>
+
+  ![XP](https://img.shields.io/badge/Total_XP-720-58CC02?style=flat-square)
+  ![Streak](https://img.shields.io/badge/Max_Streak-3_days-FF9600?style=flat-square)
+  ![League](https://img.shields.io/badge/League-Wood-8B6914?style=flat-square)
+  ![Course](https://img.shields.io/badge/Path-Python_Developer-3776AB?style=flat-square&logo=python&logoColor=white)
+  ![Progress](https://img.shields.io/badge/Chapter_1-Intro_to_Python_(18%25)-7B61FF?style=flat-square)
+  ![Certificate](https://img.shields.io/badge/Certificate-0/9-lightgrey?style=flat-square)
+
+  <br/><br/>
+
+  <p><i>📌 Stats are updated manually – last update: July 2026</i></p>
 
 </div>
 
